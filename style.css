@@ -27,7 +27,7 @@
 body {
 	--def: #ffffff;
 	--inv: #009bb7;
-    color: #999999;
+    color: #000000;
     font-size: 14px;
     font-family: 'Ubuntu', sans-serif;
     line-height: 1.80857;
@@ -156,7 +156,7 @@ a,
     margin-top: 20px;
     background-color: transparent !important;
     border: 2px solid #ddd;
-    padding: 12px 40px;
+    padding: 12]px 40px;
     font-size: 16px;
 }
 
@@ -503,7 +503,7 @@ a img.aligncenter {
 }
 
 .heading h3{
-	color: ffffff;
+	color: #ffffff;
 }
 
 .cd-words-wrapper {
@@ -663,7 +663,7 @@ xclip
 }
 
 .section-title p {
-    color: #999;
+    color: #000000;
     font-weight: 400;
     font-size: 18px;
     line-height: 33px;
@@ -2345,7 +2345,7 @@ select.mobile-device {
 -------------------------------------------------------------------*/
 
 /*------------------------------------------------------------------
-    Blog
+    Course Work
 -------------------------------------------------------------------*/
 
 .snip1401 {
